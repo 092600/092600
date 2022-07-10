@@ -11,7 +11,6 @@
 	<a href="https://github.com/092600">
 		<img src="https://img.shields.io/badge/092600's github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
-<br>
 
 <span style="font-size:25px">Platforms & Languages</span>
 ---
