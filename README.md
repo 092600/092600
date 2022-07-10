@@ -1,6 +1,5 @@
-<span style="font-size:25px">심정훈</span>
+<span style="font-size:25px">SimJungHun</span>
 ----
-<p>Hi, Im a beginner software developer</p>
 <p align="left">
 	<a href="https://velog.io/@092600">
 		<img 
