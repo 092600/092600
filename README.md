@@ -1,16 +1,24 @@
-### Hi there 👋
+# 심정훈
 
-<!--
-**092600/092600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+	<a href="https://velog.io/092600">
+		<img 
+			src="http://img.shields.io/badge/-092600's Velog-ff9933?style=flat&logo=#20C997&link=https://velog.io/092600"
+			style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+	</a>
+	<a src="">
+		<img src="https://img.shields.io/badge/seri020530@gmail.com-D14836?style=flatlogo=gmail&logoColor=white"></a>
+	<a src="https://github.com/092600">
+		<img src="https://img.shields.io/badge/092600's github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
+</p>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Platforms & Languages
+---
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
