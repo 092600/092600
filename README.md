@@ -1,13 +1,13 @@
 <span style="font-size:25px">SimJungHun</span>
 ----
 <p align="left">
+	<a src="">
+		<img src="https://img.shields.io/badge/tyiju0@naver.com-2DB400?style=flatlogo=gmail&logoColor=white"></a>
 	<a href="https://velog.io/@092600">
 		<img 
 			src="http://img.shields.io/badge/-092600's Velog-ff9933?style=flat&logo=#20C997&link=https://velog.io/092600"
 			style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
-	<a src="">
-		<img src="https://img.shields.io/badge/tyiju0@gmail.com-D14836?style=flatlogo=gmail&logoColor=white"></a>
 	<a href="https://github.com/092600">
 		<img src="https://img.shields.io/badge/092600's github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
 </p>
