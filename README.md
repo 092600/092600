@@ -2,10 +2,10 @@
 ----
 <p align="left">
 	<a src="">
-		<img src="https://img.shields.io/badge/tyiju0@naver.com-2DB400?style=flatlogo=gmail&logoColor=white"></a>
+		<img src="https://img.shields.io/badge/tyiju0@naver.com-ff9933?style=flat&logo=gmail&logoColor=white"></a>
 	<a href="https://velog.io/@092600">
-		<img 
-			src="http://img.shields.io/badge/-092600's Velog-ff9933?style=flat&logo=#20C997&link=https://velog.io/092600"
+		<img 2DB400
+			src="http://img.shields.io/badge/-092600's Velog-2DB400?style=flat&logo=velog&link=https://velog.io/092600"
 			style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 	<a href="https://github.com/092600">
