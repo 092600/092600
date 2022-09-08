@@ -14,12 +14,36 @@
 
 <span style="font-size:25px">Platforms & Languages</span>
 ---
+<p>JAVA</p>
 <p>
 	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-	<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>IntelliJ IDEA</title><path d="M0 0v24h24V0zm3.723 3.111h5v1.834h-1.39v6.277h1.39v1.834h-5v-1.834h1.444V4.945H3.723zm11.055 0H17v6.5c0 .612-.055 1.111-.222 1.556-.167.444-.39.777-.723 1.11-.277.279-.666.557-1.11.668a3.933 3.933 0 0 1-1.445.278c-.778 0-1.444-.167-1.944-.445a4.81 4.81 0 0 1-1.279-1.056l1.39-1.555c.277.334.555.555.833.722.277.167.611.278.945.278.389 0 .721-.111 1-.389.221-.278.333-.667.333-1.278zM2.222 19.5h9V21h-9z"/></svg>
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+</p>
+<p>PYTHON</p>
+<p>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 	<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+	<img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white">
+</p>
+<p>DATABASE</p>
+<p>
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+</p>
+<p>OS</p>
+<p>
 	<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
+	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=black">
+</p>
+<p>IDE</p>
+<p> 
+	<img src="https://img.shields.io/badge/Visual Studio-000000?style=flat&logo=Visual Studio&logoColor=white">
+	<img src="https://img.shields.io/badge/IntelliJ IDEA-5C2D91?style=flat&logo=IntelliJ IDEA&logoColor=white">
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=black">
+</p>
+<p>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black">
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black">
 </p>
