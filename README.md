@@ -23,3 +23,6 @@
 	<img src="https://img.shields.io/badge/Visual Studio-000000?style=for-the-badge&logo=Visual Studio&logoColor=white">
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-5C2D91?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </p>
+
+[![Simjunghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=092600)](https://github.com/092600/github-readme-stats)	
+
