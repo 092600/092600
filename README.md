@@ -14,7 +14,10 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<p align="center">
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+	<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual Studio-000000?style=for-the-badge&logo=Visual Studio&logoColor=white">
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-5C2D91?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </p>
