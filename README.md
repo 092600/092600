@@ -1,7 +1,5 @@
 <h2 align="center">📚Stack</h2>	
 
----
-
 <p align="center">
 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
